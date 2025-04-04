@@ -1,10 +1,10 @@
-# 💪 Diplomski projekat – Teretana
+Diplomski projekat – Teretana
 
 Ovaj projekat predstavlja web aplikaciju za upravljanje teretanom, razvijen korišćenjem **HTML**, **CSS**, **JavaScript**, **PHP**, i **MySQL**.
 
 ---
 
-## 🛠️ Tehnologije
+Tehnologije
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP
@@ -13,7 +13,7 @@ Ovaj projekat predstavlja web aplikaciju za upravljanje teretanom, razvijen kori
 
 ---
 
-## ⚙️ Instalacija (lokalno pokretanje)
+⚙️ Instalacija (lokalno pokretanje)
 
 1. Preuzmi projekat ili ga kloniraj sa GitHub-a:
    ```bash
@@ -41,8 +41,7 @@ Ovaj projekat predstavlja web aplikaciju za upravljanje teretanom, razvijen kori
    [http://localhost/Diplomski](http://localhost/Diplomski)
 
 ---
-
-## 🔌 Konekcija sa bazom
+Konekcija sa bazom
 
 Fajl za konekciju sa bazom nalazi se u:  
 `config.php`
@@ -58,8 +57,7 @@ $conn = new mysqli($host, $user, $password, $database);
 ```
 
 ---
-
-## 📁 Struktura projekta
+📁 Struktura projekta
 
 ```
 Diplomski/
